@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.739,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas=E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.dfm=E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,E:\02_myProjects\06 DelphyPrg\pr02_class\Project1.dproj=E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\ClientRPC.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\ClientRPC.dproj=E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\ClientRPC.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\ClientRPC.dproj=E:\02_myProjects\00_qtPet\07_RPC\ClientRPC\ClientRPC.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.763,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
